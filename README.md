@@ -6,7 +6,7 @@
 <p>___________________________________<p>   
 
 
-<li>Gabriel</li><p><a href="https://github.com"><img src="https://img.shields.io/github/followers/WedenBsilva?label=GITHUB&style=for-the-badge" target="_blank"></a>  <a href = "mercadolivre@mercadolivre.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<li>Gabriel</li><p><a href="https://github.com/Gabrielprimierimeli"><img src="https://img.shields.io/github/followers/Gabrielprimierimeli?label=GITHUB&style=for-the-badge" target="_blank"></a>  <a href = "gabriel.primieri@mercadolivre.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/gabriel-de-castro-primieri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <p>___________________________________<p>    
 
 <br>
