@@ -13,8 +13,9 @@
 <br>
 
 <li>Weden</li><p> <a href="https://github.com/WedenBsilva"><img src="https://img.shields.io/github/followers/WedenBsilva?label=GITHUB&style=for-the-badge" target="_blank"></a>  <a href = "weden.bsilva@mercadolivre.co"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/wedenbruno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+Projeto em fase de finalizacao 
 <p>___________________________________<p>     
-PROJETO FASE DE FINALIZACAO 
+
 <br>
 
 <li>Ralph</li><p><a href="https://github.com/ralteixeira"><img src="https://img.shields.io/github/followers/ralteixeira?label=GITHUB&style=for-the-badge" target="_blank"></a>  <a href = "ralph.teixeira@mercadolivre.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/ralph-angeli-teixeira-98a9b053/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
